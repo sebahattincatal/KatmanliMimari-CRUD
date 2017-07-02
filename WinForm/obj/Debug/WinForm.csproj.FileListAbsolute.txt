@@ -1,0 +1,13 @@
+D:\Development\Projects\My Projects\Desktop\visualstudio\Data\WinForm\bin\Debug\WinForm.exe.config
+D:\Development\Projects\My Projects\Desktop\visualstudio\Data\WinForm\obj\Debug\WinForm.csprojResolveAssemblyReference.cache
+D:\Development\Projects\My Projects\Desktop\visualstudio\Data\WinForm\obj\Debug\WinForm.Personel.resources
+D:\Development\Projects\My Projects\Desktop\visualstudio\Data\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+D:\Development\Projects\My Projects\Desktop\visualstudio\Data\WinForm\obj\Debug\WinForm.csproj.GenerateResource.Cache
+D:\Development\Projects\My Projects\Desktop\visualstudio\Data\WinForm\bin\Debug\WinForm.exe
+D:\Development\Projects\My Projects\Desktop\visualstudio\Data\WinForm\bin\Debug\WinForm.pdb
+D:\Development\Projects\My Projects\Desktop\visualstudio\Data\WinForm\bin\Debug\Service.dll
+D:\Development\Projects\My Projects\Desktop\visualstudio\Data\WinForm\bin\Debug\Data.dll
+D:\Development\Projects\My Projects\Desktop\visualstudio\Data\WinForm\bin\Debug\Service.pdb
+D:\Development\Projects\My Projects\Desktop\visualstudio\Data\WinForm\bin\Debug\Data.pdb
+D:\Development\Projects\My Projects\Desktop\visualstudio\Data\WinForm\obj\Debug\WinForm.exe
+D:\Development\Projects\My Projects\Desktop\visualstudio\Data\WinForm\obj\Debug\WinForm.pdb

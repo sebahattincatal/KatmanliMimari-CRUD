@@ -1,0 +1,5 @@
+D:\Development\Projects\My Projects\Desktop\visualstudio\Data\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\Development\Projects\My Projects\Desktop\visualstudio\Data\Data\bin\Debug\Data.dll
+D:\Development\Projects\My Projects\Desktop\visualstudio\Data\Data\bin\Debug\Data.pdb
+D:\Development\Projects\My Projects\Desktop\visualstudio\Data\Data\obj\Debug\Data.dll
+D:\Development\Projects\My Projects\Desktop\visualstudio\Data\Data\obj\Debug\Data.pdb

@@ -1,0 +1,7 @@
+D:\Development\Projects\My Projects\Desktop\visualstudio\Data\Service\bin\Debug\Service.dll
+D:\Development\Projects\My Projects\Desktop\visualstudio\Data\Service\bin\Debug\Service.pdb
+D:\Development\Projects\My Projects\Desktop\visualstudio\Data\Service\bin\Debug\Data.dll
+D:\Development\Projects\My Projects\Desktop\visualstudio\Data\Service\bin\Debug\Data.pdb
+D:\Development\Projects\My Projects\Desktop\visualstudio\Data\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\Development\Projects\My Projects\Desktop\visualstudio\Data\Service\obj\Debug\Service.dll
+D:\Development\Projects\My Projects\Desktop\visualstudio\Data\Service\obj\Debug\Service.pdb
